@@ -16,40 +16,36 @@ I'm a detail-oriented data science graduate with a diverse academic background a
 - 🔄 **ETL and Data Pipelines** for preprocessing and feature engineering  
 
 ---
-
 ### 💼 Experience
 
-- **Business Operations & IT System Analyst**  
-  *KMN LLC DBA Papa John's, Warwick, RI (2016–2023)*  
-Conducted performance reporting and coordinated logistics to enhance efficiency.
-Used business intelligence tools to drive strategic decisions, increasing revenue by 3%.
+**Business Operations & IT System Analyst**  
+_KMN LLC DBA Papa John's, Warwick, RI (2016–2023)_  
+- Improved business intelligence reporting, increased profits by 3%, managed store operations and logistics.
 
+**Administrative Officer**  
+_Pakistan Embassy College Beijing, China (2013–2015)_  
+- Oversaw budgeting, procurement, and exam systems using digital tools.
 
-- **Administrative Officer**  
-  *Pakistan Embassy College Beijing, China (2013–2015)*
-   Managed budgeting, procurement, and examination systems.
-Ensured financial efficiency and data accuracy in school operations.
 ---
 
-📂 Projects Overview
+### 📂 Projects Overview
 
-🏛 Law-Schools Public
-A centralized database providing insights into law school admissions, academic performance, and bar exam success across the U.S.
+#### 🚲 [London Bike Share Analysis](https://github.com/fbokhari7/london-bike-share)
+Predictive analysis on bike-sharing demand using 17,414 observations of 10 variables. Includes EDA and time series visualizations.
 
+#### 🏠 [California Housing Project](https://github.com/fbokhari7/california-housing-project)
+Machine learning pipeline to predict median housing prices in California using housing and geographic features. Model tuning with GridSearchCV.
 
-🚲 London-Bike-Share Public
-Predictive analysis on bike-sharing demand using 17,414 observations of 10 variables. 
+#### 🏛 [Law Schools Database](https://github.com/fbokhari7/law-school-database)
+A centralized PostgreSQL database providing insights into law school admissions, bar exam success, employment outcomes, and student demographics.
 
+#### 📊 [Superstore Excel Analysis](https://github.com/fbokhari7/superstore-excel)
+Sales and profitability analysis of a retail superstore across regions, categories, and customer segments using Excel PivotTables and dashboards.
 
-📊 Superstore_Excel Public
-Sales and profitability analysis of a retail superstore across regions, categories, and customer segments using Excel PivotTables.
+#### 📈 [Global TB Burden Tableau Dashboard](https://github.com/fbokhari7/global-tb-dashboard)
+Interactive Tableau dashboard designed to visualize and analyze the global burden of tuberculosis (TB) by region and year.
 
-📈 Tableau-Project Public
-A Tableau dashboard designed to visualize and analyze the global burden of tuberculosis (TB) by region and year.
-
-
-🏠 California-Housing-Project Public
-A machine learning pipeline that predicts median housing prices in California using housing and geographic features.
+---
 
 ### 📫 Let's Connect
 
