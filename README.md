@@ -26,8 +26,8 @@ Used business intelligence tools to drive strategic decisions, increasing revenu
 
 
 - **Administrative Officer**  
-  *Pakistan Embassy College Beijing, China (2013–2015)*  
-  ↳ Managed budgeting, procurement, and examination systems.
+  *Pakistan Embassy College Beijing, China (2013–2015)*
+   Managed budgeting, procurement, and examination systems.
 Ensured financial efficiency and data accuracy in school operations.
 ---
 
