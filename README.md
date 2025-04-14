@@ -42,7 +42,7 @@ A centralized PostgreSQL database providing insights into law school admissions,
 #### 📊 [Superstore Excel Analysis](https://github.com/fbokhari7/Superstore_excel)
 Sales and profitability analysis of a retail superstore across regions, categories, and customer segments using Excel PivotTables and dashboards.
 
-#### 📈 [Global TB Burden Tableau Dashboard](https://github.com/fbokhari7/Tableau-Project)
+#### 📈 [Global TB Burden Tableau Dashboard](https://public.tableau.com/app/profile/faizan.bokhari/viz/GlobalSuperStore_17446625259780/FinalDashboard?publish=yes)
 Interactive Tableau dashboard designed to visualize and analyze the global burden of tuberculosis (TB) by region and year.
 
 ---
