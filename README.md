@@ -49,7 +49,7 @@ Interactive Tableau dashboard designed to visualize and analyze the global burde
 
 ### 📫 Let's Connect
 
-📧 **Email**: faizanbokhari7@gmail.com  
+📧 **Email**: faizan.d.bokhari@gmail.com  
 📱 **Phone**: (508) 333-8419  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/faizan-bokhari/)  
 💻 [**GitHub**](https://github.com/fbokhari7)
