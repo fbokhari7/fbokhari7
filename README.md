@@ -12,7 +12,7 @@ I'm a detail-oriented data science graduate with a diverse academic background a
 
 - 📊 **Data Analysis & Visualization** using Python (Pandas, Matplotlib, Seaborn), Excel, Tableau, and Power BI  
 - 🧠 **Machine Learning & Modeling** with Scikit-learn  
-- 🗃️ **Database Design & SQL** — PostgreSQL, schema design for real-world apps  
+- 🗃️ **Database Design & SQL** — PostgreSQL, schema design for  practical, real-world applications  
 - 🔄 **ETL and Data Pipelines** for preprocessing and feature engineering  
 
 ---
