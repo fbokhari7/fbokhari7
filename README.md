@@ -21,12 +21,14 @@ I'm a detail-oriented data science graduate with a diverse academic background a
 
 - **Business Operations & IT System Analyst**  
   *KMN LLC DBA Papa John's, Warwick, RI (2016–2023)*  
-  ↳ Improved business intelligence reporting, increased profits by 3%, managed store operations and logistics.
+Conducted performance reporting and coordinated logistics to enhance efficiency.
+Used business intelligence tools to drive strategic decisions, increasing revenue by 3%.
+
 
 - **Administrative Officer**  
   *Pakistan Embassy College Beijing, China (2013–2015)*  
-  ↳ Oversaw budgeting, procurement, and exam systems using digital tools.
-
+  ↳ Managed budgeting, procurement, and examination systems.
+Ensured financial efficiency and data accuracy in school operations.
 ---
 
 📂 Projects Overview
