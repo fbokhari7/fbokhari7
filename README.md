@@ -36,13 +36,13 @@ Predictive analysis on bike-sharing demand using 17,414 observations of 10 varia
 #### 🏠 [California Housing Project](https://github.com/fbokhari7/california-housing-project)
 Machine learning pipeline to predict median housing prices in California using housing and geographic features. Model tuning with GridSearchCV.
 
-#### 🏛 [Law Schools Database](https://github.com/fbokhari7/law-school-database)
+#### 🏛 [Law Schools Database](https://github.com/fbokhari7/Law-Schools)
 A centralized PostgreSQL database providing insights into law school admissions, bar exam success, employment outcomes, and student demographics.
 
-#### 📊 [Superstore Excel Analysis](https://github.com/fbokhari7/superstore-excel)
+#### 📊 [Superstore Excel Analysis](https://github.com/fbokhari7/Superstore_excel)
 Sales and profitability analysis of a retail superstore across regions, categories, and customer segments using Excel PivotTables and dashboards.
 
-#### 📈 [Global TB Burden Tableau Dashboard](https://github.com/fbokhari7/global-tb-dashboard)
+#### 📈 [Global TB Burden Tableau Dashboard](https://github.com/fbokhari7/Tableau-Project)
 Interactive Tableau dashboard designed to visualize and analyze the global burden of tuberculosis (TB) by region and year.
 
 ---
