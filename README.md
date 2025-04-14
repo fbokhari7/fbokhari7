@@ -29,16 +29,27 @@ I'm a detail-oriented data science graduate with a diverse academic background a
 
 ---
 
-### 🧠 Projects
+📂 Projects Overview
 
-- 🚴‍♂️ **London Bike Share Analysis** – Predicting usage patterns from weather and time-based factors  
-- 🛍️ **Global Store Sales Analysis** – Detecting trends across seasons and regions  
-- 🧾 **Walmart Sales Forecasting** – Analyzing seasonal and economic variables for weekly sales  
-- 🍕 **Pizza Store Database Schema** – Designed normalized PostgreSQL schema for inventory, customers, and sales  
-- 🌍 **Global TB Burden Dashboard (Tableau)** – Visualizing regional impact of Tuberculosis  
+🏛 Law-Schools Public
+A centralized database providing insights into law school admissions, academic performance, and bar exam success across the U.S.
+Tech Stack: Python, Pandas, Seaborn
 
----
+🚲 London-Bike-Share Public
+Predictive analysis on bike-sharing demand using 17,414 observations of 10 variables. Includes EDA, feature engineering, and model training in Jupyter Notebooks.
+Tech Stack: Jupyter, Scikit-learn, Matplotlib
 
+📊 Superstore_Excel Public
+Sales and profitability analysis of a retail superstore across regions, categories, and customer segments using Excel PivotTables.
+Tech Stack: Excel, PivotTables, Charts
+
+📈 Tableau-Project Public
+A Tableau dashboard designed to visualize and analyze the global burden of tuberculosis (TB) by region and year.
+Tech Stack: Tableau, CSV, WHO Data
+
+🏠 California-Housing-Project Public
+A machine learning pipeline that predicts median housing prices in California using housing and geographic features.
+Tech Stack: Scikit-learn, Pipeline, GridSearchCV
 ### 📫 Let's Connect
 
 📧 **Email**: faizanbokhari7@gmail.com  
