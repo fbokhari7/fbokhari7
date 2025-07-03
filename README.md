@@ -16,15 +16,6 @@ I'm a detail-oriented data science graduate with a diverse academic background a
 - 🔄 **ETL and Data Pipelines** for preprocessing and feature engineering  
 
 ---
-### 💼 Experience
-
-**Business Operations & IT System Analyst**  
-_KMN LLC DBA Papa John's, Warwick, RI (2016–2023)_  
-- Improved business intelligence reporting, increased profits by 3%, managed store operations and logistics.
-
-**Administrative Officer**  
-_Pakistan Embassy College Beijing, China (2013–2015)_  
-- Oversaw budgeting, procurement, and exam systems using digital tools.
 
 ---
 
