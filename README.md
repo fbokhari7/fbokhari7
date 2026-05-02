@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a detail-oriented data science graduate with a diverse academic background and a passion for transforming raw data into meaningful insights. I bring a unique mix of analytical, operational, and technical skills backed by hands-on experience in:
+Graduate-level Data Analyst with hands-on experience in Python, SQL, Excel, and Tableau. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, and translating data into actionable business insights. Currently pursuing an MS in Applied Data Analytics at Boston University with a focus on data-driven decision-making and reporting.
 
 - 📊 **Data Analysis & Visualization** using Python (Pandas, Matplotlib, Seaborn), Excel, Tableau, and Power BI  
 - 🧠 **Machine Learning & Modeling** with Scikit-learn  
