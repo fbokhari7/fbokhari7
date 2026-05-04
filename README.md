@@ -128,7 +128,3 @@ I have hands-on experience in Python, SQL, and R, along with dashboard developme
 👉 https://fbokhari7.github.io/faizan-portfolio/
 
 ---
-
-## ⭐ If you like this repo
-
-Give it a ⭐ — it helps visibility!
