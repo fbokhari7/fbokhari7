@@ -1,73 +1,71 @@
 # 👋 Hi there! I'm Faizan Danish Bokhari
-
-🎓 **M.S. in Data Science** | Eastern University, Philadelphia, PA  
-🔍 Data Scientist | Analyst | Python Enthusiast  
-📍 Based in Franklin, MA | 🌐 Former MBBS, China  
-
----
-
-### 🚀 About Me
-
-Graduate-level Data Analyst with hands-on experience in Python, SQL, Excel, and Tableau. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, and translating data into actionable business insights. Currently pursuing an MS in Applied Data Analytics at Boston University with a focus on data-driven decision-making and reporting.
-
-- 📊 **Data Analysis & Visualization** using Python (Pandas, Matplotlib, Seaborn), Excel, Tableau, and Power BI  
-- 🧠 **Machine Learning & Modeling** with Scikit-learn  
-- 🗃️ **Database Design & SQL** — PostgreSQL, schema design for  practical, real-world applications  
-- 🔄 **ETL and Data Pipelines** for preprocessing and feature engineering  
-
-TECHNICAL SKILLS
-Programming & Analysis: Python, SQL, R
-Data Analysis: Data Cleaning, Data Validation, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization
-Tools & Platforms: Excel, Tableau, Power BI, Jupyter Notebook, PostgreSQL, MySQL
-Concepts: Dashboard Development, KPI Reporting, Data Modeling, ETL, Business Intelligence, Data Storytelling
-EDUCATION
-Boston University — Boston, MA
-Master of Science in Applied Data Analytics (In Progress) | Aug 2025 – Present
-Eastern University — Philadelphia, PA
-Master of Science in Data Science | Mar 2023 – Mar 2025
-PROFESSIONAL EXPERIENCE
-Handshake AI — Remote
-AI Trainer – Data Science & Analytics | Nov 2025 – Present
-• Evaluated AI-generated outputs for accuracy, clarity, and data quality using structured analytical criteria
-• Analyzed model responses and identified inconsistencies in data workflows and logic
-• Provided detailed feedback to improve performance of AI systems in data analysis and reporting tasks
-The Build Fellowship by Open Avenues — Remote
-Build Student Consultant | Oct 2025 – Dec 2025
-• Analyzed over 120 years of U.S. precipitation data using Python (pandas, NumPy) to identify long-term climate trends
-• Created visualizations using Matplotlib and Seaborn to communicate patterns and anomalies in environmental data
-• Delivered a structured analytical report summarizing findings and supporting data-driven insights
-KMN LLC DBA Papa John’s — Warwick, RI
-IT Systems Analyst | Jun 2019 – Mar 2025
-• Built Tableau and Excel dashboards to track sales, delivery performance, and operational metrics across locations
-• Analyzed regional delivery data to identify low-order zones, supporting targeted marketing strategies that increased orders
-by approximately 3%
-• Automated recurring reports and improved data accuracy through structured data validation and reporting processes
-DATA ANALYTICS PROJECTS
-London Bike Share Analysis | Python, pandas, Matplotlib, Seaborn
-• Cleaned and analyzed time-series transportation data to identify seasonal usage trends and peak demand periods
-• Developed visualizations to support operational planning and resource allocation decisions
-California Housing Price Prediction | Python, Scikit-learn
-• Built machine learning models using Random Forest and Linear Regression to predict housing prices
-• Performed feature engineering, model tuning (GridSearchCV), and performance evaluation using RMSE and R² metrics
-Law School Database & Analytics System | SQL, PostgreSQL
-• Designed a relational database schema and implemented ETL processes to organize admissions and financial data
-• Queried and analyzed structured datasets to generate insights on bar passage rates, costs, and employment outcomes
-Tableau Dashboard Portfolio | Tableau
-• Developed interactive dashboards displaying key performance indicators (KPIs), trends, and business insights for decision-
-makers
-
-
-📧 **Email**: faizan.d.bokhari@gmail.com  
-📱 **Phone**: (508) 333-8419  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/faizan-bokhari/)  
-💻 [**GitHub**](https://github.com/fbokhari7)
-
----
-
-*Thanks for visiting my profile! Feel free to reach out or check out my projects 👇*
-
-
-<!---
-fbokhari7/fbokhari7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Data Analyst Portfolio
+📍 Franklin, MA | 📧 faizanb@bu.edu
+👋 About Me
+I’m a graduate-level Data Analyst currently pursuing an MS in Applied Data Analytics at Boston University. I specialize in transforming raw data into actionable business insights through data analysis, visualization, and machine learning.
+I have hands-on experience in:
+Python, SQL, and R
+Data cleaning & exploratory data analysis (EDA)
+Dashboard development (Tableau, Power BI, Excel)
+Business intelligence and KPI reporting
+📄 Resume:
+🛠️ Technical Skills
+Programming & Analysis
+Python • SQL • R
+Data Analysis
+EDA • Data Cleaning • Statistical Analysis • Data Validation
+Tools & Platforms
+Tableau • Power BI • Excel • PostgreSQL • MySQL • Jupyter Notebook
+Concepts
+ETL • Data Modeling • KPI Reporting • Business Intelligence • Data Storytelling
+📊 Featured Projects
+🏡 California Housing Price Prediction
+Built machine learning models (Random Forest, Linear Regression)
+Performed feature engineering and hyperparameter tuning (GridSearchCV)
+Evaluated performance using RMSE and R²
+🔗 https://github.com/fbokhari7/California-Housing-Project
+⚖️ Law School Database & Analytics System
+Designed relational database schema in PostgreSQL
+Implemented ETL pipelines for structured data analysis
+Generated insights on admissions, costs, and employment
+🔗 https://github.com/fbokhari7/Law-Schools
+🚲 London Bike Share Analysis
+Analyzed time-series transportation data
+Identified seasonal demand and peak usage trends
+Built visualizations using Matplotlib & Seaborn
+🔗 https://github.com/fbokhari7/London-Bike-Share
+📈 Tableau Dashboard Portfolio
+Built interactive dashboards for KPI tracking and business insights
+Focused on executive-level reporting and data storytelling
+🔗 https://github.com/fbokhari7/Tableau-Project
+🛒 Superstore Sales & Profit Analysis
+Identified profitability drivers and loss patterns
+Built dashboards to analyze category-level performance
+🔗 https://github.com/fbokhari7/Superstore_excel
+🏬 Walmart Sales Analysis
+Analyzed retail sales trends and performance metrics
+Created dashboard-style reporting for business insights
+🔗 https://github.com/fbokhari7/Project-Walmart-
+💼 Experience
+AI Trainer – Data Science & Analytics (Handshake AI)
+Evaluated AI-generated outputs for accuracy and data quality
+Identified inconsistencies in data workflows
+Improved AI system performance through structured feedback
+Build Student Consultant (Open Avenues)
+Analyzed 120+ years of climate data using Python
+Built visualizations to communicate long-term trends
+Delivered data-driven insights and reports
+IT Systems Analyst (Papa John’s)
+Built Tableau dashboards for operational tracking
+Identified low-performing regions → increased orders by ~3%
+Automated reporting and improved data accuracy
+🎯 Currently Seeking
+✔ Data Analyst Intern
+✔ Business Analyst Intern
+✔ Remote / Hybrid Opportunities
+🌐 Live Portfolio
+👉 https://fbokhari7.github.io/faizan-portfolio/
+(or your custom domain once live)
+📬 Contact
+📧 faizanb@bu.edu
+🔗 LinkedIn: https://www.linkedin.com/in/faizan-bokhari
